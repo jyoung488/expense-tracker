@@ -1,24 +1,16 @@
-# README
+# Rails & React Tutorial
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+----
+## Synopsis
 
-Things you may want to cover:
+Practice Rails app to learn React.js, tutorial can be found at [airpair.com](https://www.airpair.com/reactjs/posts/reactjs-a-guide-for-rails-developers)
 
-* Ruby version
+----
+## Motivation
 
-* System dependencies
+To learn React.js!
 
-* Configuration
+----
+## Installation
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+`bundle install` to ensure the appropriate gems are installed.
